@@ -8,6 +8,7 @@ Not all pages link to each other yet, so this page contains a list of all the su
 - [article_template](article_template)
 - [asm-offsets](asm-offsets)
 - [ava](ava)
+- [AutPI](autpi)
 - [assembly](assembly)
 - [bkg-hack](bkg-hack)
 - [boosters-lab](boosters-lab)
